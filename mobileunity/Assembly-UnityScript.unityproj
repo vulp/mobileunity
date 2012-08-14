@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Paddle.js" />
      <Compile Include="Assets\Scripts\ball.js" />
+     <Compile Include="Assets\Scripts\createpalikka.js" />
      <Compile Include="Assets\Scripts\menuScene.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" />

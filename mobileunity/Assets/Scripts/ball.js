@@ -15,7 +15,7 @@ function OnCollisionEnter(hit : Collision)
      	Debug.Log("Osui Seinään!");
      }
      else if(hit.gameObject.tag == "breakable"){
-     	Debug.Log("Osui Tiileen!");
+     	Destroy(hit.gameObject);     	
      }
      else if(hit.gameObject.tag == "Player"){
      	Debug.Log("Osui Mailaan!");
