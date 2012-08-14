@@ -6,7 +6,7 @@ var cube : Transform;
 var spacex = 0.5;
 var spacey = 0.5;
 var startx = -41;
-var starty = 300;
+var starty = 250;
 
 function Start () {
 	for(var y = 0; y < 5; y++){
